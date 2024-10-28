@@ -2,10 +2,14 @@
 
 Software Developer | Computer Science Graduate | Open to Collaboration
 
-🌟 About Me
+### 🌟 About Me
 
 - 🎓 Education: Engineering degree (Master’s) in Computer Science, Polytech Tours
-- 🧑‍💻 Languages: 
+- 🧑‍💻 Languages: Python, Java, Javascript, C/C++
+  
+
+### Let's Connect!
+- LinkedIn: [LinkedIn](www.linkedin.com/in/jesimiel-manza)
 <!--
 **11kainani/11kainani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
