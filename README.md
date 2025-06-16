@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Jesimiel
+## Hi there I'm Jesimiel
 
 Software Developer | Computer Science Graduate | Open to Collaboration | Open to Work
 
