@@ -1,6 +1,6 @@
 ## Hi there I'm Jesimiel
 
-Software Developer | Computer Science Graduate | Open to Collaboration | Open to Work
+Data Engineer | Computer Science Graduate | Open to Collaboration 
 
 # 💫 About Me:
 🎓 Education: Engineering degree (Master’s) in Computer Science, Polytech Tours
