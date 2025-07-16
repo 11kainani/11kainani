@@ -3,7 +3,7 @@
 Data Engineer | Computer Science Graduate | Open to Collaboration 
 
 # 💫 About Me:
-🎓 Education: Engineering degree (Master’s) in Computer Science, Polytech Tours
+🎓 Education: Engineering degree (Master’s) in Computer Science, Polytech Tours <br>
 🔭 I’m currently working on Speech Recording App that helps users improve their speaking skills through repetition<br>🤝 I’m looking for a professional opportunity in England<br>🌱 I’m currently learning React Native and AI<br>
 
 
